@@ -6,4 +6,7 @@ spring:
       database: "test"
       username: "root"
       password: "example"
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
 

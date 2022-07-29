@@ -16,3 +16,6 @@ Connect mongo-express
 ````
 http://localhost:8081/
 ````
+
+## Documentation
+http://localhost:8080/swagger-ui/
