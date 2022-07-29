@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: "admin"
+      host: "localhost"
+      database: "test"
+      username: "root"
+      password: "example"
+
